@@ -56,7 +56,10 @@
   (Too vague. Could describe 10,000 projects. Describes none of them.)
 -->
 
-**Context:** [The business, research, or personal situation that motivated this project.]
+**Context:** FreshLink is a fast-growing e-grocery company operating five fulfilment centres across Indonesia — Bandung, Denpasar, Jakarta, Surabaya, and Medan. They stock 10 product categories ranging from Fresh Produce and Meat to Pantry staples and Personal Care, supplied by 10 vendors across the country.
+In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procurement, raised a critical concern: the business has no consolidated view of how suppliers are performing or how stock health varies across categories and warehouses. Individual SKU records exist, but nobody has ever grouped and summarised them to answer the questions that matter most to procurement decisions. COME BACK TO EDIT THE FINIDINGS
+
+
 
 **Problem Statement:** [The specific question or challenge you were addressing.]
 
