@@ -87,12 +87,15 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
   (These can't fail - which means they can't succeed either.)
 -->
 
-- **Primary Objective:** [The main thing you set out to do]
-- **Secondary Objective 1:** [Supporting goal]
-- **Secondary Objective 2:** [Supporting goal]
-- **Secondary Objective 3:** [Remove if not applicable]
+- **Primary Objective:** Deliver a Supplier & Stock Performance Analysis using SQL aggregation queries that enable Rizky and the procurement team at FreshLink to summarise stock health, identify underperforming suppliers, quantify expiry risk by category, and surface warehouses with the highest stockout exposure.
+- **Secondary Objective 1:** Total SKUs and Average On-Time Rate by Supplier
+- **Secondary Objective 2:** Total Inventory Value and SKU Count by ABC Class
+- **Secondary Objective 3:** Expiry Risk by Category — Total SKUs Expiring Soon
+-  **Secondary Objective 4:** : Warehouse Stock Summary — Total QOH and Average Stock Age
+-  **Secondary Objective 5:** Suppliers with Average Lead Time Above 5 Days (HAVING)
+-   **Secondary Objective 6:** Calculated Column — Total Stock Value at Risk per Category
 
-> 💡 *Every analysis decision in this project traces back to one of these objectives.*
+
 
 ---
 
