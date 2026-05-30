@@ -130,13 +130,13 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 
 | Category | Tool(s) Used |
 |----------|-------------|
-| Data Storage | [e.g., PostgreSQL, CSV files, BigQuery, S3] |
-| Data Processing | [e.g., Python, R, SQL, Excel, dbt] |
-| Analysis | [e.g., pandas, dplyr, custom SQL queries] |
-| Visualization | [e.g., Matplotlib, Tableau, Power BI, Looker] |
-| Version Control | [e.g., Git / GitHub] |
-| Documentation | [e.g., Markdown, Notion] |
-| Other | [Any additional tools] |
+| Data Storage | CSV files |
+| Data Processing | SQL, Excel |
+| Analysis | custom SQL queries] |
+| Visualization | Power BI, Looker |
+| Version Control | Git / GitHub |
+| Documentation | Github |
+| Other | N/A |
 
 ---
 
