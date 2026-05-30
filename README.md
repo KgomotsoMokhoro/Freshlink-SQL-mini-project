@@ -61,9 +61,9 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 
 
 
-**Problem Statement:** [The specific question or challenge you were addressing.]
+**Problem Statement:** There has never been agrregated data that the head of procurement can use to make procurement decisions.
 
-**Approach:** [In 1–2 sentences - how did you tackle it?]
+**Approach:** 3 Platforms were used, Excel to clean the data, SQL to query the use cases, and PowerBi to visualise the findings.
 
 **Outcome:** [What did you produce or discover?]
 
