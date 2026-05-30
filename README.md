@@ -523,12 +523,12 @@ erDiagram
 
 ## 14. Author
 
-**[Your Name]**
-[Your role or title - current or target]
+****Kgomotso Mokhoro****
+BCom: Supply chain Managemnt graduate
 
-- 🔗 [LinkedIn URL]
-- 💼 [Portfolio or GitHub profile URL]
-- 📧 [Email - optional]
+- 🔗 https://www.linkedin.com/in/kgomotso-mokhoro-399660225
+- 💼 https://github.com/KgomotsoMokhoro
+- 📧 Mokhoro59@gmail.com
 
 ---
 
