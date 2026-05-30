@@ -132,7 +132,7 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 |----------|-------------|
 | Data Storage | CSV files |
 | Data Processing | SQL, Excel |
-| Analysis | custom SQL queries] |
+| Analysis | Custom SQL queries] |
 | Visualization | Power BI, Looker |
 | Version Control | Git / GitHub |
 | Documentation | Github |
