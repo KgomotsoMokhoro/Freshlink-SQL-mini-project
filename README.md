@@ -28,8 +28,8 @@
 8. [Analysis & Metrics](#8-analysis--metrics)
 9. [Key Insights](#9-key-insights)
 10. [Recommendations](#10-recommendations)
-13. [Deliverables](#13-deliverables)
-14. [Author](#14-author)
+11. [Deliverables](#13-deliverables)
+12. [Author](#14-author)
 
 ---
 
@@ -394,7 +394,7 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 ---
 
 
-## 13. Deliverables
+## 11. Deliverables
 
 | Deliverable | Description | Location |
 |-------------|-------------|----------|
@@ -404,7 +404,7 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 
 ---
 
-## 14. Author
+## 12. Author
 
 ****Kgomotso Mokhoro****
 BCom: Supply chain Managemnt graduate
@@ -415,5 +415,5 @@ BCom: Supply chain Managemnt graduate
 
 ---
 
-*Last updated: [Month YYYY]*
-*If this template helped you, consider starring the repository.*
+*Last updated: May 2026*
+
