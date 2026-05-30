@@ -1,11 +1,10 @@
 # Freshlink- SQL (Aggregations + Grouping)
-> *One sentence. What did you analyze, build, or solve - and why does it matter?
-> *
+> *Supplier & Stock Performance Analysis — Aggregation Dashboard *
 
 ---
 
 ## ⚙️ Project Type Flags
-> *Check what applies. This helps reviewers and collaborators understand the nature of the work at a glance. Delete this block before publishing.*
+
 
 - [x] Exploratory Data Analysis (EDA)
 - [x] SQL Analysis / Querying
