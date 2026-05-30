@@ -1,4 +1,4 @@
-# [Project Title]
+# Freshlink- SQL (Aggregations + Grouping)
 > *One sentence. What did you analyze, build, or solve - and why does it matter?*
 
 ---
