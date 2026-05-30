@@ -1,5 +1,5 @@
 # Freshlink- SQL (Aggregations + Grouping)
-> *Supplier & Stock Performance Analysis — Aggregation Dashboard *
+> Supplier & Stock Performance Analysis — Aggregation Dashboard 
 
 ---
 
