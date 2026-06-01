@@ -210,12 +210,12 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 [Output / Visualisation / Reporting]
 ```
 
-1. **Source:** [Where did the data come from? Format, size, access method.]
-2. **Ingestion:** [How was it brought in?]
-3. **Cleaning:** [What issues did you find and fix?]
-4. **Transformation:** [What new fields, aggregations, or structures did you create?]
-5. **Analysis:** [What methods - statistical, visual, query-based, model-based?]
-6. **Output:** [What form do the results take?]
+1. **Source:** Dataset sourced from Kaggle — E-Grocery inventory dataset. Single CSV file (E-Grocery_company.csv) covering inventory records across 5 warehouses and 10 product categories, 997 rows and 37 columns.
+2. **Ingestion:** Opened in Microsoft Excel. Identified semicolon ";" as the delimiter and re-opened the file with the correct separator to expose all 37 columns into a readable table format.
+3. **Cleaning:** Removed dollar signs from Unit_Cost_USD, Last_Purchase_Price_USD, and Total_Inventory_Value_USD columns. Removed percentage symbols from Supplier_OnTime_Pct, Audit_Variance_Pct, and Demand_Forecast_Accuracy_Pct. Verified no duplicate SKU_IDs and no null values in key aggregation columns.
+4. **Transformation:** Imported cleaned CSV into MySQL. Created aggregated query outputs grouping by Supplier_Name, Category, ABC_Class, and Warehouse_Location. Calculated a stock value column at query level using Quantity_On_Hand multiplied by Unit_Cost_USD.
+5. **Analysis:** Supplier on-time performance ranked by average delivery rate. Expiry risk quantified by category. Inventory value distribution validated against ABC classification. Warehouse stock age compared across all five fulfilment centres.
+6. **Output:** Summary findings document (Github), SQL query file (.sql) with commented business questions, Power BI dashboard with aggregated visuals.
 
 ---
 
