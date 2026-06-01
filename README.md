@@ -319,18 +319,14 @@ I took a took an exploratory approach for this peoject. The goal was to summaris
   Aim for 3–6 insights. Quality over quantity.
 -->
 
-**Insight 1: [Short descriptive headline]**
-[What you found + what it suggests. One short paragraph.]
+**Insight 1: Fresh Produce and Meat carry the highest expiry risk**
+When SKUs flagged as Expiring Soon are grouped by category, Fresh Produce leads with 81 expiring SKUs followed by Meat at 70 and Dairy at 66. These three perishable categories account for the majority of FreshLink's spoilage exposure and should be prioritised for immediate markdown or promotional activity.
 
-**Insight 2: [Short descriptive headline]**
-[What you found + what it suggests.]
+**Insight 2: All suppliers have similar on-time rates**
+Supplier on-time rates range closely from 84.03% by PT Nusantara Supplier to 85.66% by PT Indo Fresh. By the query no supplier is underperforming, no supplier is meeting the 95% strategic target either. Meaning the entire supplier base needs improvement.
 
-**Insight 3: [Short descriptive headline]**
-[What you found + what it suggests.]
-
-**Insight 4 (if applicable): [Short descriptive headline]**
-[What you found + what it suggests.]
-
+**Insight 3: A-class items dominate inventory value as expected**
+A-class holds $67.4M in total inventory value across 200 SKUs, B-class holds $38.9M across 299 SKUs, and C-class holds $16.6M across 498 SKUs. The 80/20 principle is broadly confirmed.
 ---
 
 ## 10. Recommendations
