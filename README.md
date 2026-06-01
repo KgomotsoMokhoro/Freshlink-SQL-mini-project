@@ -148,8 +148,6 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 └── README.md                 # You are here
 ```
 
-> ⚠️ *Delete folders you didn't use. An empty folder is worse than no folder.*
-> SQL-heavy projects: keep `queries/`. Analysis-only projects: keep `notebooks/`. Both? Keep both.
 
 ---
 
