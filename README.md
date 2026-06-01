@@ -280,25 +280,22 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 -->
 
 ### Analytical Approach
-
-[Describe how you approached the analysis. Were you exploring patterns? Testing a hypothesis? Building and validating a pipeline? Be honest about your method - exploratory work is valid, just call it that.]
-
+I took a took an exploratory approach for this peoject. The goal was to summarise a flat inventory dataset to surface patterns that are invisible at the row level. The analysis used SQL aggregation to group 997 SKU records by supplier, category, ABC class, and warehouse, then identified where performance gaps and stock risks were concentrated.
 ### Key Metrics Defined
 
 | Metric | Plain-Language Definition | Why It Matters |
 |--------|--------------------------|----------------|
-| `[Metric 1]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 2]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 3]` | [What it measures, in one sentence] | [What decision or question it answers] |
-
+| `Avg Supplier On-Time Rate` | The average percentage of deliveries a supplier made on time, across all their SKUs | Identifies which vendors are causing delays that put stock availability at risk |
+| `Total Inventory Value by ABC Class` | The sum of all on-hand stock value grouped by A, B, or C priority class | Confirms whether high-priority items are driving the majority of capital as expected |
+| `Expiring SKU Count by Category` | The number of SKUs flagged as Expiring Soon within each product category | Shows which categories carry the highest spoilage and write-off risk |
+| `Average Stock Age by Warehouse` | The mean number of days stock has been held per fulfilment centre | Identifies warehouses holding old stock that needs a clearance push |
+| `Calculated Stock Value` | Quantity On Hand multiplied by Unit Cost per category | Gives a ground-up financial view of stock exposure independent of recorded values |
 ### Methods Used
 
-- [e.g., Descriptive statistics - distribution, central tendency, outlier detection]
-- [e.g., Trend analysis across [time period]]
-- [e.g., Segmentation / group comparison by [dimension]]
-- [e.g., Correlation analysis between [variable A] and [variable B]]
-- [e.g., SQL window functions for [specific aggregation]]
-- [e.g., Custom aggregation or transformation logic in [tool]]
+- SQL aggregation. GROUP BY with COUNT, SUM, AVG, MIN, MAX, and ROUND.
+- HAVING clause filtering. Used to isolate suppliers whose average lead time exceeded a threshold after grouping.
+- Data cleaning in Excel. Currency symbols, decimal separator conflicts, and percentage symbols resolved before import.
+  
 
 ---
 
