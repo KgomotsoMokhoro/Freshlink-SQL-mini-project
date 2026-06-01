@@ -242,7 +242,7 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
      if a formal schema doesn't apply. Even one paragraph is more helpful than nothing.
 -->
 
-### Dataset / Table: `[name]`
+### Dataset / Table: `grocery`
 
 | Field Name | Data Type | Description | Example Value |
 |------------|-----------|-------------|---------------|
