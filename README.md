@@ -254,7 +254,7 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 > **Date range:** 2025/01/17 – 2025/09/08
 
 
-*Add additional table blocks as needed for multi-table projects.*
+
 
 ---
 
