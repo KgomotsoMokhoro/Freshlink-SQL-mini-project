@@ -326,7 +326,7 @@ When SKUs flagged as Expiring Soon are grouped by category, Fresh Produce leads 
 Supplier on-time rates range closely from 84.03% by PT Nusantara Supplier to 85.66% by PT Indo Fresh. By the query no supplier is underperforming, no supplier is meeting the 95% strategic target either. Meaning the entire supplier base needs improvement.
 
 **Insight 3: A-class items dominate inventory value as expected**
-A-class holds $67.4M in total inventory value across 200 SKUs, B-class holds $38.9M across 299 SKUs, and C-class holds $16.6M across 498 SKUs. The 80/20 principle is broadly confirmed — A-class represents 55% of total value despite being only 20% of SKUs.
+A-class holds $67.4M in total inventory value across 200 SKUs, B-class holds $38.9M across 299 SKUs, and C-class holds $16.6M across 498 SKUs. The 80/20 principle is broadly confirmed
 
 ---
 
@@ -355,7 +355,7 @@ A-class holds $67.4M in total inventory value across 200 SKUs, B-class holds $38
 |----------|---------------|----------|-----------------|
 | High | Trigger immediate markdowns or flash promotions for fresh Produce and meat before stock expires and is written off | UC-03. Expiry risk by category | Category Managers  |
 | Medium | Investigate why Personal Care holds $204,805 in calculated stock value and assess whether this capital is tied up in slow-moving SKUs | UC-06. Calculated stock value by category | Rizky |
-| Low | Initiate a supplier performance improvement programme across all 10 vendors — no supplier is meeting the 95% on-time target  | UC-01. Supplier on-time rates | Procurement Team |
+| Low | Initiate a supplier performance improvement programme across all 10 vendors, no supplier is meeting the 95% on-time target  | UC-01. Supplier on-time rates | Procurement Team |
 
 ---
 
