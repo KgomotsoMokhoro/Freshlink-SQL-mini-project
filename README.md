@@ -364,9 +364,10 @@ A-class holds $67.4M in total inventory value across 200 SKUs, B-class holds $38
 
 | Deliverable | Description | Location |
 |-------------|-------------|----------|
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
+| SQL query file | All 6 use case queries with business question comments | [`/path/to/file`] |
+| Cleaned dataset | E-Grocery CSV with currency symbols, decimal separators, and % signs removed | [`/path/to/file`] |
+| PowerBI report | Dashboard with aggregated visuals for supplier, category, warehouse, and ABC analysis | [`/path/to/file`] |
+| User requirement document] | Stakeholder requirements, use cases, and data quality checks for Week 2 project | [`/path/to/file`] |
 
 ---
 
