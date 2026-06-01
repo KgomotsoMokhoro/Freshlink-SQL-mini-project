@@ -246,13 +246,13 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 
 | Field Name | Data Type | Description | Example Value |
 |------------|-----------|-------------|---------------|
-| `[field_1]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
-| `[field_2]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
-| `[field_3]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
+| SKU_ID | string | Unique product identifier] | SKU0001 |
+| Quantity_On_Hand | int | Physical units in stock | 359 |
+| Unit_Cost_USD | Float| Cost per unit in USD | 5.81 |
 
-> **Row count (approx.):** [X rows]
-> **Date range:** [Start] – [End]
-> **Key join / relationship:** [e.g., `orders.customer_id` → `customers.id`]
+> **Row count (approx.):** 997
+> **Date range:** 2025/01/17 – 2025/09/08
+
 
 *Add additional table blocks as needed for multi-table projects.*
 
