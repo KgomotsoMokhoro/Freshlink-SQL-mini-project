@@ -129,9 +129,9 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 │   ├── processed/            # Cleaned and transformed data
 │   └── external/             # Reference data, lookup tables, third-party files
 │
-├── notebooks/                # Jupyter, R Markdown, or Colab notebooks
+|
 │
-├── scripts/                  # Reusable .py, .R, or .sh processing files
+|
 │
 ├── queries/                  # SQL files (retain this folder for SQL-heavy projects)
 │   ├── exploratory/          # Ad-hoc or investigative queries
