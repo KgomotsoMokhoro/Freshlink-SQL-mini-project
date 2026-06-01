@@ -24,12 +24,11 @@
 4. [Repository Structure](#4-repository-structure)
 5. [Data Workflow](#5-data-workflow)
 6. [Data Model & Schema](#6-data-model--schema)
-7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
-8. [Analysis & Metrics](#8-analysis--metrics)
-9. [Key Insights](#9-key-insights)
-10. [Recommendations](#10-recommendations)
-11. [Deliverables](#13-deliverables)
-12. [Author](#14-author)
+7. [Analysis & Metrics](#8-analysis--metrics)
+8. [Key Insights](#9-key-insights)
+9. [Recommendations](#10-recommendations)
+10. [Deliverables](#13-deliverables)
+11. [Author](#14-author)
 
 ---
 
@@ -240,7 +239,7 @@ In a leadership review for Q3 2025, Rizky Pratama, Head of Inventory and Procure
 ---
 
 
-## 8. Analysis & Metrics
+## 7. Analysis & Metrics
 
 <!--
   Explain what you measured and how - before you share what you found.
@@ -279,7 +278,7 @@ I took a took an exploratory approach for this peoject. The goal was to summaris
 
 ---
 
-## 9. Key Insights
+## 8. Key Insights
 
 <!--
   Findings + implications. Not just what happened - what it means.
@@ -310,7 +309,7 @@ A-class holds $67.4M in total inventory value across 200 SKUs, B-class holds $38
 
 ---
 
-## 10. Recommendations
+## 9. Recommendations
 
 <!--
   Action-oriented. Addressed to a real audience.
@@ -340,7 +339,7 @@ A-class holds $67.4M in total inventory value across 200 SKUs, B-class holds $38
 ---
 
 
-## 11. Deliverables
+## 10. Deliverables
 
 | Deliverable | Description | Location |
 |-------------|-------------|----------|
@@ -351,7 +350,7 @@ A-class holds $67.4M in total inventory value across 200 SKUs, B-class holds $38
 
 ---
 
-## 12. Author
+## 11. Author
 
 ****Kgomotso Mokhoro****
 BCom: Supply chain Managemnt graduate
